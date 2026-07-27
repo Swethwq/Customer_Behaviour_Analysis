@@ -54,7 +54,7 @@ The Power BI dashboard presents important KPIs and customer behavior trends in a
 
 ## Repository Structure
 
-* `data/` — Raw/processed dataset
+* `data/` — Raw dataset
 * `notebooks/` — Python data cleaning and EDA
 * `sql/` — Database setup and analytical SQL queries
 * `powerbi/` — Power BI dashboard file
